@@ -1,0 +1,39 @@
+.bgimg {
+	background-image:url('https://tse1.mm.bing.net/th?id=OIP.0WKpR7gL3mHZIBM2rZA9kAHaE8&pid=Api&P=0');
+    background-size: cover;
+	height: 50vh;
+}
+.niteesh {
+	color:white;
+	font-family:'Roboto';
+	font-size: 50px;
+	font-weight: bolder;
+	padding: 200px;
+}
+.rahul {
+	background-color:lightblue;
+	height: 50vh;
+
+}
+.lion {
+	background-color: white;
+	width: 100px;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: center;
+	margin: 15px;
+}
+.chrisheading {
+	font-size: 15px;
+	font-family: 'roboto';
+	font-weight: normal;
+}
+.chrispara {
+	font-weight: bold;
+}
+.hat {
+	height: 50px;
+	width: 50px;
+}
+
+
